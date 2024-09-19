@@ -14,4 +14,16 @@ ul {
 
 a {
     color: blanchedalmond;
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid orange;
+}
+
+.center {
+    text-align: center;
 }
